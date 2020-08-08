@@ -1,0 +1,12 @@
+*.gem
+.byebug_history
+/.rakeTasks
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/test/reports/
+/tmp/
+/vendor/bundle/
+Gemfile.lock
